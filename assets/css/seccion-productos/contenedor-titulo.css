@@ -1,0 +1,5 @@
+.seccion__productos_contenedor_titulo {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}

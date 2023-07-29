@@ -30,6 +30,11 @@ html, body {
 .parrafo-blanco {
     color: var(--blanco--100);
 }
+.enlace-azul {
+    color: var(--azul--100);
+    font-weight: bold;
+    text-decoration: none;
+}
 :root {
     /* - Fuente color  */
     --azul--100:#2A7AE4;
