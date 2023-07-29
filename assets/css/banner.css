@@ -1,0 +1,7 @@
+.banner {
+    width: 100%;
+    height: 12rem;
+    background-image: url(/assets/imagenes/background-banner.jpg);
+    background-size: cover;
+    background-position: center;
+}
