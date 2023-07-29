@@ -1,0 +1,9 @@
+.header__container_lupa {
+    width: 7%;
+    height: 1.5rem;
+    align-self: center;
+}
+.header__lupa {
+    width: 100%;
+    height: 100%;
+}

@@ -1,6 +1,7 @@
 .header {
-    padding: 1.5rem 1.5rem;
+    padding: 1rem;
     box-sizing: border-box;
     display: flex;
     justify-content: space-between;
+    background-color: var(--blanco--100);
 }

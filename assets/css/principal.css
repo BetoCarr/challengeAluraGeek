@@ -14,7 +14,8 @@ html, body {
 :root {
     /* - Fuente color  */
     --azul--100:#2A7AE4;
-    --petro--100:##464646;
+    --petro--100: #464646;
+    --blanco--100: #FFFFFF;
 
     /* FUENTE FAMILIA */
     --raleway: 'Raleway', sans-serif;
