@@ -1,8 +1,8 @@
-.header__container_boton {
+.container_boton {
     width: 37.4%;
     height: 2.5rem;
 }
-.header__boton {
+.boton {
     width: 100%;
     height: 100%;
     background-color: var(--blanco--100);
@@ -11,4 +11,8 @@
     font-family: var(--raleway);
     font-size: 0.9rem;
     font-weight: bold;
+}
+.boton-azul {
+    background-color: var(--azul--100);
+    color: var(--blanco--100);
 }

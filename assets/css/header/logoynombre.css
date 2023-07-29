@@ -2,12 +2,12 @@
     display: flex;
     align-items: center;
 }
-.header__container_logo_parrafo {
+.header__container_logo_texto {
     color: var(--azul--100);
     font-family: var(--raleway);
     font-weight: bold;
     font-size: 1rem;
 }
-.gris {
+.header__container_logo_texto_gris {
     color: var(--petro--100);
 }

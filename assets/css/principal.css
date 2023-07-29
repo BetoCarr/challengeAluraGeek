@@ -9,7 +9,27 @@ html, body {
     width: 100% !important;
     overflow-x: hidden !important;
 }
+.titulo {
+    font-family: var(--raleway);
+    font-weight: bold;
+    font-size: 1.5rem;
+    color: var(--petro--100);
+    margin-bottom: 0.7rem;
+}
+.titulo-blanco {
+    color: var(--blanco--100);
 
+}
+.parrafo {
+    color: var(--petro--100);
+    font-family: var(--raleway);
+    font-weight: normal;
+    font-size: 0.9rem;
+    margin-bottom: 0.6rem;
+}
+.parrafo-blanco {
+    color: var(--blanco--100);
+}
 :root {
     /* - Fuente color  */
     --azul--100:#2A7AE4;
