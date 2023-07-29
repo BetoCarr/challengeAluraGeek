@@ -1,0 +1,12 @@
+.header__container_logo {
+    display: flex;
+    align-items: center;
+}
+.header__container_logo_parrafo {
+    color: var(--azul--100);
+    font-family: var(--raleway);
+    font-weight: 900;
+}
+.gris {
+    color: var(--petro--100);
+}

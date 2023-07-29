@@ -1,0 +1,21 @@
+body {
+    min-width: 100vw;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    box-sizing: border-box;
+}
+html, body {
+    width: 100% !important;
+    overflow-x: hidden !important;
+}
+
+:root {
+    /* - Fuente color  */
+    --azul--100:#2A7AE4;
+    --petro--100:##464646;
+
+    /* FUENTE FAMILIA */
+    --raleway: 'Raleway', sans-serif;
+}
