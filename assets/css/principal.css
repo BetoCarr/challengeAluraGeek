@@ -16,6 +16,15 @@ html, body {
     color: var(--petro--100);
     margin-bottom: 0.7rem;
 }
+.titulo-azul {
+    color: var(--azul--100);
+    margin-bottom: 0;
+    margin-left: 0.4rem;
+}
+.titulo-gris {
+    color: var(--petro--100);
+    margin-bottom: 0;
+}
 .titulo-blanco {
     color: var(--blanco--100);
 
@@ -40,6 +49,8 @@ html, body {
     --azul--100:#2A7AE4;
     --petro--100: #464646;
     --blanco--100: #FFFFFF;
+    /* Color background*/
+    --azulbkgfoot--100: #EAF2FD;
 
     /* FUENTE FAMILIA */
     --raleway: 'Raleway', sans-serif;

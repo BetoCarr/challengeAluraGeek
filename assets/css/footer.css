@@ -1,0 +1,7 @@
+.footer {
+    box-sizing: border-box;
+    display: flex;
+    flex-direction: column;
+    background-color: var(--azulbkgfoot--100);
+    padding: 1rem;
+}
